@@ -1,0 +1,31 @@
+name: Update profile README
+
+on:
+  schedule:
+    - cron: "0 3 * * *"   # every day at 03:00 UTC
+  workflow_dispatch:       # lets you run it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update latest and top repositories
+        run: python3 scripts/update_readme.py
+        env:
+          ORG: SMMpro-pk
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit changes
+        run: |
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add profile/README.md
+            git commit -m "chore: update repository lists in profile README"
+            git push
+          fi
