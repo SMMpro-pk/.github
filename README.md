@@ -1,11 +1,12 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SMMpro-pk/.github/main/banner.svg" alt="SMMpro.pk - Digital Marketing & Technology Platform" width="100%"/>
+<img src="https://raw.githubusercontent.com/SMMpro-pk/.github/main/banner.svg" alt="SMMpro.pk - AI-First Digital Marketing &amp; SEO Solutions" width="100%"/>
 
 <br/>
 
-[![Website](https://img.shields.io/badge/🌐_Website-smmpro.pk-1E90FF?style=for-the-badge)](https://smmpro.pk/)
+[![Website](https://img.shields.io/badge/🌐_Website-smmpro.pk-6C63FF?style=for-the-badge)](https://smmpro.pk/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat_Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923491388832)
 [![Email](https://img.shields.io/badge/✉️_Email-support@smmpro.pk-D14836?style=for-the-badge)](mailto:support@smmpro.pk)
 ![Country](https://img.shields.io/badge/📍_Pakistan-01411C?style=for-the-badge)
 ![Verified](https://img.shields.io/badge/✔_Verified-2EA043?style=for-the-badge)
@@ -17,7 +18,7 @@
 
 <br/>
 
-**[About](#-about-smmpro) · [Services](#-what-we-do) · [Values](#-our-values) · [Process](#-how-we-work) · [Industries](#-industries-we-serve) · [Tech](#%EF%B8%8F-technology--platforms) · [FAQ](#-faq) · [Contact](#-work-with-us)**
+**[About](#-about-smmpro) · [Services](#-what-we-do) · [AI Tools](#-smmpro-ai-tools) · [Projects](#-featured-repositories) · [Values](#-our-values) · [Process](#-how-we-work) · [Industries](#-industries-we-serve) · [Tech](#%EF%B8%8F-technology--platforms) · [FAQ](#-faq) · [Contact](#-work-with-us)**
 
 </div>
 
@@ -81,6 +82,47 @@ We combine marketing expertise with software engineering, so businesses get both
 
 ---
 
+## 🤖 SMMpro AI Tools
+
+Free AI tools built for marketers, creators, and business owners. **[Explore all AI tools →](https://smmpro.pk/ai-tools/)**
+
+| Tool | What it does | Link |
+|------|--------------|------|
+| 🔥 **Viral Content Generator** | Hooks, captions, and hashtags for viral posts | [Open](https://smmpro.pk/ai-tools/viral-hooks-captions-hashtags-generator/) |
+| #️⃣ **Strategic Hashtag Builder** | Smart semantic hashtag clusters | [Open](https://smmpro.pk/ai-tools/ai-hashtag-generator/) |
+| 🎨 **AI Image Architect** | Detailed prompts for AI image generation | [Open](https://smmpro.pk/ai-tools/ai-image-architect/) |
+| 🎬 **AI Video Script Generator** | Video scripts and strategy for short-form content | [Open](https://smmpro.pk/ai-tools/ai-video-script-generator/) |
+| 👤 **Bio Optimizer** | Professional, creative, and authority-style bios | [Open](https://smmpro.pk/ai-tools/bio-optimizer-professional-creative-authority-bios/) |
+| 📢 **Ad Specialist** | Paid ad copy generator | [Open](https://smmpro.pk/ai-tools/ad-specialist-paid-ad-copy/) |
+
+<div align="center">
+
+[![All AI Tools](https://img.shields.io/badge/Browse_All_AI_Tools-6C63FF?style=for-the-badge&logo=openai&logoColor=white)](https://smmpro.pk/ai-tools/)
+
+</div>
+
+---
+
+## 📌 Featured Repositories
+
+> 🔄 These lists update automatically every day.
+
+### 🆕 Latest Updated
+
+<!-- LATEST_REPOS:START -->
+_Updating soon…_
+<!-- LATEST_REPOS:END -->
+
+### 🏆 Top Ranked (by stars)
+
+<!-- TOP_REPOS:START -->
+_Updating soon…_
+<!-- TOP_REPOS:END -->
+
+[**View all repositories →**](https://github.com/orgs/SMMpro-pk/repositories)
+
+---
+
 ## 🧭 How We Work
 
 ```mermaid
@@ -101,7 +143,7 @@ flowchart LR
 
 ## 🏢 Industries We Serve
 
-![E-commerce](https://img.shields.io/badge/🛒_E--commerce-1E90FF?style=for-the-badge)
+![E-commerce](https://img.shields.io/badge/🛒_E--commerce-6C63FF?style=for-the-badge)
 ![Education](https://img.shields.io/badge/🎓_Education-2EA043?style=for-the-badge)
 ![Real Estate](https://img.shields.io/badge/🏠_Real_Estate-F59E0B?style=for-the-badge)
 ![Healthcare](https://img.shields.io/badge/🏥_Healthcare-D14836?style=for-the-badge)
@@ -198,7 +240,8 @@ Ready to grow your business online? Let's talk.
 
 <div align="center">
 
-[![Visit Website](https://img.shields.io/badge/Visit_Our_Website-1E90FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://smmpro.pk/)
+[![Visit Website](https://img.shields.io/badge/Visit_Our_Website-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://smmpro.pk/)
+[![WhatsApp](https://img.shields.io/badge/Chat_on_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923491388832)
 [![Contact Us](https://img.shields.io/badge/Get_a_Free_Consultation-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support@smmpro.pk?subject=Free%20Consultation%20Request)
 
 </div>
@@ -212,13 +255,16 @@ Ready to grow your business online? Let's talk.
 | 📸 Instagram | [@smmpro.pk](https://www.instagram.com/smmpro.pk/) |
 | 💼 LinkedIn | [company/smmpro-pk](https://www.linkedin.com/company/smmpro-pk/) |
 | 🐦 X (Twitter) | [@smmpro_pk](https://x.com/smmpro_pk) |
+| 💬 WhatsApp | [+92 349 1388832](https://wa.me/923491388832) |
+| 📞 Phone | [+92 349 1388832](tel:+923491388832) |
 | ✉️ Email | [support@smmpro.pk](mailto:support@smmpro.pk) |
+| 📍 Address | Ismailabad, Sher Shah Road, Multan, Punjab, Pakistan 59200 |
 
 ---
 
-## 📂 Our Repositories & Contributing
+## 🔧 Contributing
 
-Browse our public repositories to see our tools, plugins, and open-source work.
+Browse our [public repositories](https://github.com/orgs/SMMpro-pk/repositories) to see our tools, plugins, and open-source work.
 
 - 🐞 **Found a bug?** Open an **issue** in the relevant repository.
 - 💡 **Have an idea?** Start a discussion or open an issue describing it.
