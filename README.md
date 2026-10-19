@@ -1,7 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SMMpro-pk/.github/main/profile/banner.svg" alt="SMMpro.pk - Digital Marketing & Technology Platform" width="100%"/>
+<img src="https://raw.githubusercontent.com/SMMpro-pk/.github/main/banner.svg" alt="SMMpro.pk - Digital Marketing & Technology Platform" width="100%"/>
 
 <br/>
 
@@ -233,6 +233,6 @@ Browse our public repositories to see our tools, plugins, and open-source work.
 
 ⭐ *Follow the organization to stay updated on new tools and releases.*
 
-<img src="https://raw.githubusercontent.com/SMMpro-pk/.github/main/profile/footer.svg" alt="SMMpro.pk footer" width="100%"/>
+<img src="https://raw.githubusercontent.com/SMMpro-pk/.github/main/footer.svg" alt="SMMpro.pk footer" width="100%"/>
 
 </div>
